@@ -8,6 +8,9 @@ namespace Neo4J_Repository.Model
 {
     public class Kategorija
     {
-        public String nazivKategorije { get; set; }
+        
+
+        public string idKategorija { get; set; }
+        public string naziv { get; internal set; }
     }
 }

@@ -50,6 +50,28 @@
             this.ObrisiJela = new System.Windows.Forms.Button();
             this.tboxIdJela = new System.Windows.Forms.NumericUpDown();
             this.DodajJela = new System.Windows.Forms.Button();
+            this.Sastojak = new System.Windows.Forms.GroupBox();
+            this.lblstring = new System.Windows.Forms.Label();
+            this.lblDodajS = new System.Windows.Forms.Label();
+            this.lblid = new System.Windows.Forms.Label();
+            this.tbNazivSastojka = new System.Windows.Forms.TextBox();
+            this.upDownIDPromena = new System.Windows.Forms.NumericUpDown();
+            this.btnIzmeniSastojak = new System.Windows.Forms.Button();
+            this.btnDodajSastojke = new System.Windows.Forms.Button();
+            this.btnPretraziSastojak = new System.Windows.Forms.Button();
+            this.upDownObrisiSastojak = new System.Windows.Forms.NumericUpDown();
+            this.btnObrisiSastojak = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.tbNazivKategorije = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.upDownKategorija = new System.Windows.Forms.NumericUpDown();
+            this.label5 = new System.Windows.Forms.Label();
+            this.upDownIdBrisiKat = new System.Windows.Forms.NumericUpDown();
+            this.btnPretraziKat = new System.Windows.Forms.Button();
+            this.btnIzmeniKategoriju = new System.Windows.Forms.Button();
+            this.btnBrisiKategoriju = new System.Windows.Forms.Button();
+            this.btnDodajKategoriju = new System.Windows.Forms.Button();
             this.grpboxAutor.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numOcena)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudIdAutoraZaOcenjivanje)).BeginInit();
@@ -57,6 +79,12 @@
             this.Jela.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tboxIdZaPromenu)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tboxIdJela)).BeginInit();
+            this.Sastojak.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.upDownIDPromena)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.upDownObrisiSastojak)).BeginInit();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.upDownKategorija)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.upDownIdBrisiKat)).BeginInit();
             this.SuspendLayout();
             // 
             // grpboxAutor
@@ -309,11 +337,227 @@
             this.DodajJela.UseVisualStyleBackColor = true;
             this.DodajJela.Click += new System.EventHandler(this.DodajJela_Click);
             // 
+            // Sastojak
+            // 
+            this.Sastojak.Controls.Add(this.lblstring);
+            this.Sastojak.Controls.Add(this.lblDodajS);
+            this.Sastojak.Controls.Add(this.lblid);
+            this.Sastojak.Controls.Add(this.tbNazivSastojka);
+            this.Sastojak.Controls.Add(this.upDownIDPromena);
+            this.Sastojak.Controls.Add(this.btnIzmeniSastojak);
+            this.Sastojak.Controls.Add(this.btnDodajSastojke);
+            this.Sastojak.Controls.Add(this.btnPretraziSastojak);
+            this.Sastojak.Controls.Add(this.upDownObrisiSastojak);
+            this.Sastojak.Controls.Add(this.btnObrisiSastojak);
+            this.Sastojak.Location = new System.Drawing.Point(12, 287);
+            this.Sastojak.Name = "Sastojak";
+            this.Sastojak.Size = new System.Drawing.Size(334, 236);
+            this.Sastojak.TabIndex = 16;
+            this.Sastojak.TabStop = false;
+            this.Sastojak.Text = "Sastojak";
+            // 
+            // lblstring
+            // 
+            this.lblstring.AutoSize = true;
+            this.lblstring.Location = new System.Drawing.Point(148, 147);
+            this.lblstring.Name = "lblstring";
+            this.lblstring.Size = new System.Drawing.Size(79, 13);
+            this.lblstring.TabIndex = 14;
+            this.lblstring.Text = "Naziv sastojka:";
+            // 
+            // lblDodajS
+            // 
+            this.lblDodajS.AutoSize = true;
+            this.lblDodajS.Location = new System.Drawing.Point(12, 74);
+            this.lblDodajS.Name = "lblDodajS";
+            this.lblDodajS.Size = new System.Drawing.Size(63, 13);
+            this.lblDodajS.TabIndex = 13;
+            this.lblDodajS.Text = "ID sastojka:";
+            // 
+            // lblid
+            // 
+            this.lblid.AutoSize = true;
+            this.lblid.Location = new System.Drawing.Point(6, 147);
+            this.lblid.Name = "lblid";
+            this.lblid.Size = new System.Drawing.Size(63, 13);
+            this.lblid.TabIndex = 13;
+            this.lblid.Text = "ID sastojka:";
+            // 
+            // tbNazivSastojka
+            // 
+            this.tbNazivSastojka.Location = new System.Drawing.Point(151, 172);
+            this.tbNazivSastojka.Name = "tbNazivSastojka";
+            this.tbNazivSastojka.Size = new System.Drawing.Size(162, 20);
+            this.tbNazivSastojka.TabIndex = 17;
+            // 
+            // upDownIDPromena
+            // 
+            this.upDownIDPromena.Location = new System.Drawing.Point(6, 172);
+            this.upDownIDPromena.Name = "upDownIDPromena";
+            this.upDownIDPromena.Size = new System.Drawing.Size(120, 20);
+            this.upDownIDPromena.TabIndex = 18;
+            // 
+            // btnIzmeniSastojak
+            // 
+            this.btnIzmeniSastojak.Location = new System.Drawing.Point(6, 207);
+            this.btnIzmeniSastojak.Name = "btnIzmeniSastojak";
+            this.btnIzmeniSastojak.Size = new System.Drawing.Size(120, 23);
+            this.btnIzmeniSastojak.TabIndex = 15;
+            this.btnIzmeniSastojak.Text = "Izmeni sastojak";
+            this.btnIzmeniSastojak.UseVisualStyleBackColor = true;
+            this.btnIzmeniSastojak.Click += new System.EventHandler(this.btnIzmeniSastojak_Click);
+            // 
+            // btnDodajSastojke
+            // 
+            this.btnDodajSastojke.Location = new System.Drawing.Point(6, 34);
+            this.btnDodajSastojke.Name = "btnDodajSastojke";
+            this.btnDodajSastojke.Size = new System.Drawing.Size(131, 23);
+            this.btnDodajSastojke.TabIndex = 13;
+            this.btnDodajSastojke.Text = "Dodaj sastojke";
+            this.btnDodajSastojke.UseVisualStyleBackColor = true;
+            this.btnDodajSastojke.Click += new System.EventHandler(this.btnDodajSastojke_Click);
+            // 
+            // btnPretraziSastojak
+            // 
+            this.btnPretraziSastojak.Location = new System.Drawing.Point(151, 207);
+            this.btnPretraziSastojak.Name = "btnPretraziSastojak";
+            this.btnPretraziSastojak.Size = new System.Drawing.Size(162, 23);
+            this.btnPretraziSastojak.TabIndex = 16;
+            this.btnPretraziSastojak.Text = "Pretrazi sastojak po nazivu";
+            this.btnPretraziSastojak.UseVisualStyleBackColor = true;
+            this.btnPretraziSastojak.Click += new System.EventHandler(this.btnPretraziSastojak_Click);
+            // 
+            // upDownObrisiSastojak
+            // 
+            this.upDownObrisiSastojak.Location = new System.Drawing.Point(79, 72);
+            this.upDownObrisiSastojak.Name = "upDownObrisiSastojak";
+            this.upDownObrisiSastojak.Size = new System.Drawing.Size(58, 20);
+            this.upDownObrisiSastojak.TabIndex = 17;
+            // 
+            // btnObrisiSastojak
+            // 
+            this.btnObrisiSastojak.Location = new System.Drawing.Point(143, 69);
+            this.btnObrisiSastojak.Name = "btnObrisiSastojak";
+            this.btnObrisiSastojak.Size = new System.Drawing.Size(139, 23);
+            this.btnObrisiSastojak.TabIndex = 14;
+            this.btnObrisiSastojak.Text = "Obrisi sastojak";
+            this.btnObrisiSastojak.UseVisualStyleBackColor = true;
+            this.btnObrisiSastojak.Click += new System.EventHandler(this.btnObrisiSastojak_Click);
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.label7);
+            this.groupBox1.Controls.Add(this.tbNazivKategorije);
+            this.groupBox1.Controls.Add(this.label6);
+            this.groupBox1.Controls.Add(this.upDownKategorija);
+            this.groupBox1.Controls.Add(this.label5);
+            this.groupBox1.Controls.Add(this.upDownIdBrisiKat);
+            this.groupBox1.Controls.Add(this.btnPretraziKat);
+            this.groupBox1.Controls.Add(this.btnIzmeniKategoriju);
+            this.groupBox1.Controls.Add(this.btnBrisiKategoriju);
+            this.groupBox1.Controls.Add(this.btnDodajKategoriju);
+            this.groupBox1.Location = new System.Drawing.Point(400, 296);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(289, 236);
+            this.groupBox1.TabIndex = 17;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Kategorija";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(132, 147);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(86, 13);
+            this.label7.TabIndex = 16;
+            this.label7.Text = "Naziv kategorije:";
+            // 
+            // tbNazivKategorije
+            // 
+            this.tbNazivKategorije.Location = new System.Drawing.Point(135, 172);
+            this.tbNazivKategorije.Name = "tbNazivKategorije";
+            this.tbNazivKategorije.Size = new System.Drawing.Size(148, 20);
+            this.tbNazivKategorije.TabIndex = 6;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(13, 147);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(70, 13);
+            this.label6.TabIndex = 15;
+            this.label6.Text = "ID kategorije:";
+            // 
+            // upDownKategorija
+            // 
+            this.upDownKategorija.Location = new System.Drawing.Point(16, 172);
+            this.upDownKategorija.Name = "upDownKategorija";
+            this.upDownKategorija.Size = new System.Drawing.Size(84, 20);
+            this.upDownKategorija.TabIndex = 5;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(13, 69);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(70, 13);
+            this.label5.TabIndex = 14;
+            this.label5.Text = "ID kategorije:";
+            // 
+            // upDownIdBrisiKat
+            // 
+            this.upDownIdBrisiKat.Location = new System.Drawing.Point(88, 67);
+            this.upDownIdBrisiKat.Name = "upDownIdBrisiKat";
+            this.upDownIdBrisiKat.Size = new System.Drawing.Size(61, 20);
+            this.upDownIdBrisiKat.TabIndex = 4;
+            // 
+            // btnPretraziKat
+            // 
+            this.btnPretraziKat.Location = new System.Drawing.Point(135, 207);
+            this.btnPretraziKat.Name = "btnPretraziKat";
+            this.btnPretraziKat.Size = new System.Drawing.Size(150, 23);
+            this.btnPretraziKat.TabIndex = 3;
+            this.btnPretraziKat.Text = "Pretrazi kategoriju po nazivu";
+            this.btnPretraziKat.UseVisualStyleBackColor = true;
+            this.btnPretraziKat.Click += new System.EventHandler(this.btnPretraziKat_Click);
+            // 
+            // btnIzmeniKategoriju
+            // 
+            this.btnIzmeniKategoriju.Location = new System.Drawing.Point(16, 207);
+            this.btnIzmeniKategoriju.Name = "btnIzmeniKategoriju";
+            this.btnIzmeniKategoriju.Size = new System.Drawing.Size(112, 23);
+            this.btnIzmeniKategoriju.TabIndex = 2;
+            this.btnIzmeniKategoriju.Text = "Izmeni kategoriju";
+            this.btnIzmeniKategoriju.UseVisualStyleBackColor = true;
+            this.btnIzmeniKategoriju.Click += new System.EventHandler(this.btnIzmeniKategoriju_Click);
+            // 
+            // btnBrisiKategoriju
+            // 
+            this.btnBrisiKategoriju.Location = new System.Drawing.Point(155, 64);
+            this.btnBrisiKategoriju.Name = "btnBrisiKategoriju";
+            this.btnBrisiKategoriju.Size = new System.Drawing.Size(113, 23);
+            this.btnBrisiKategoriju.TabIndex = 1;
+            this.btnBrisiKategoriju.Text = "Obrisi kategoriju";
+            this.btnBrisiKategoriju.UseVisualStyleBackColor = true;
+            this.btnBrisiKategoriju.Click += new System.EventHandler(this.btnBrisiKategoriju_Click);
+            // 
+            // btnDodajKategoriju
+            // 
+            this.btnDodajKategoriju.Location = new System.Drawing.Point(6, 19);
+            this.btnDodajKategoriju.Name = "btnDodajKategoriju";
+            this.btnDodajKategoriju.Size = new System.Drawing.Size(111, 23);
+            this.btnDodajKategoriju.TabIndex = 0;
+            this.btnDodajKategoriju.Text = "Dodaj kategoriju";
+            this.btnDodajKategoriju.UseVisualStyleBackColor = true;
+            this.btnDodajKategoriju.Click += new System.EventHandler(this.btnDodajKategoriju_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(717, 411);
+            this.ClientSize = new System.Drawing.Size(768, 535);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.Sastojak);
             this.Controls.Add(this.Jela);
             this.Controls.Add(this.grpboxAutor);
             this.Name = "Form1";
@@ -328,6 +572,14 @@
             this.Jela.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tboxIdZaPromenu)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tboxIdJela)).EndInit();
+            this.Sastojak.ResumeLayout(false);
+            this.Sastojak.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.upDownIDPromena)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.upDownObrisiSastojak)).EndInit();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.upDownKategorija)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.upDownIdBrisiKat)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -356,6 +608,28 @@
         private System.Windows.Forms.NumericUpDown tboxIdJela;
         private System.Windows.Forms.Button DodajJela;
         private System.Windows.Forms.TextBox tboxnacinpripreme;
+        private System.Windows.Forms.GroupBox Sastojak;
+        private System.Windows.Forms.Label lblstring;
+        private System.Windows.Forms.Label lblDodajS;
+        private System.Windows.Forms.Label lblid;
+        private System.Windows.Forms.TextBox tbNazivSastojka;
+        private System.Windows.Forms.NumericUpDown upDownIDPromena;
+        private System.Windows.Forms.Button btnIzmeniSastojak;
+        private System.Windows.Forms.Button btnDodajSastojke;
+        private System.Windows.Forms.Button btnPretraziSastojak;
+        private System.Windows.Forms.NumericUpDown upDownObrisiSastojak;
+        private System.Windows.Forms.Button btnObrisiSastojak;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox tbNazivKategorije;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.NumericUpDown upDownKategorija;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.NumericUpDown upDownIdBrisiKat;
+        private System.Windows.Forms.Button btnPretraziKat;
+        private System.Windows.Forms.Button btnIzmeniKategoriju;
+        private System.Windows.Forms.Button btnBrisiKategoriju;
+        private System.Windows.Forms.Button btnDodajKategoriju;
     }
 }
 
