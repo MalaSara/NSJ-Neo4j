@@ -1,0 +1,63 @@
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe.config
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4J_Repository.pdb
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4jClient.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\bin\Debug\Newtonsoft.Json.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4jClient.pdb
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4jClient.xml
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\bin\Debug\Newtonsoft.Json.xml
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.AddActor.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Form1.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Properties.Resources.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csproj.GenerateResource.Cache
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.pdb
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\neo4j\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe.config
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.exe
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.pdb
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4J_Repository.pdb
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4jClient.dll
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4jClient.pdb
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4jClient.xml
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.AddActor.resources
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Form1.resources
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Properties.Resources.resources
+C:\Users\student\Desktop\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csproj.GenerateResource.Cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe.config
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4J_Repository.pdb
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4jClient.dll
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\bin\Debug\Newtonsoft.Json.dll
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4jClient.pdb
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\bin\Debug\Neo4jClient.xml
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\bin\Debug\Newtonsoft.Json.xml
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csprojAssemblyReference.cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.AddActor.resources
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Form1.resources
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Properties.Resources.resources
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csproj.GenerateResource.cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csproj.CoreCompileInputs.cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csproj.CopyComplete
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.exe
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.pdb
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe.config
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4J_Repository.pdb
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4jClient.dll
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Newtonsoft.Json.dll
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4jClient.pdb
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4jClient.xml
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Newtonsoft.Json.xml
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csprojAssemblyReference.cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Form1.resources
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Properties.Resources.resources
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csproj.GenerateResource.cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csproj.CoreCompileInputs.cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.csproj.CopyComplete
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.exe
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.pdb

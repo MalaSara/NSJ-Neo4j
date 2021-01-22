@@ -1,0 +1,16 @@
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe.config
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4J_Repository.exe
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4J_Repository.pdb
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4jClient.dll
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Newtonsoft.Json.dll
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4jClient.pdb
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Neo4jClient.xml
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\bin\Debug\Newtonsoft.Json.xml
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\NadjiSuperJelo.csprojAssemblyReference.cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Form1.resources
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.Properties.Resources.resources
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\NadjiSuperJelo.csproj.GenerateResource.cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\NadjiSuperJelo.csproj.CoreCompileInputs.cache
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\NadjiSuperJelo.csproj.CopyComplete
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.exe
+D:\FAKS\4.GODINA\Napredne baze podataka\Neo4J_Repository (1)\Neo4J_Repository - Copy\Neo4J_Repository\obj\x86\Debug\Neo4J_Repository.pdb

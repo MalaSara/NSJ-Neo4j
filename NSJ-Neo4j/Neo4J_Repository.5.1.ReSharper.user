@@ -1,0 +1,228 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/d:DomainModel/f:Rating.cs" caret="332" fromTop="12" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/d:DomainModel/f:User.cs" caret="509" fromTop="11" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="2419" fromTop="63" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/d:DomainModel/f:Role.cs" caret="289" fromTop="11" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/d:DomainModel/f:Movie.cs" caret="330" fromTop="12" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/d:DomainModel/f:Actor.cs" caret="743" fromTop="18" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.Designer.cs" caret="491" fromTop="13" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="4496" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="6371" fromTop="20" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="2401" fromTop="21" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="2641" fromTop="21" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="3120" fromTop="21" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="3384" fromTop="21" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="5858" fromTop="21" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="5265" fromTop="17" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="6586" fromTop="19" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="227" fromTop="5" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="2083" fromTop="18" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/d:DomainModel/f:Actor.cs" caret="373" fromTop="7" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="392" fromTop="16" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="8109" fromTop="27" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="6572" fromTop="24" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="8109" fromTop="24" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="7424" fromTop="31" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="6993" fromTop="15" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="6714" fromTop="11" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="755" fromTop="16" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="2019" fromTop="22" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="2459" fromTop="14" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="1896" fromTop="24" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="894" fromTop="6" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="2907" fromTop="17" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="2959" fromTop="17" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="8069" fromTop="27" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:AddActor.cs" caret="1379" fromTop="19" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="1281" fromTop="17" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="2537" fromTop="21" />
+      <File id="2CE45317-9D42-4C37-BF8E-4EBE8018154F/f:Form1.cs" caret="7918" fromTop="35" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.4.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="return" priority="5" />
+      <Item value="new" priority="16" />
+      <Item value="Role" priority="0" />
+      <Item value="public" priority="9" />
+      <Item value="Rating`0" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="Role`0" priority="0" />
+      <Item value="User`0" priority="2" />
+      <Item value="client" priority="6" />
+      <Item value="null" priority="1" />
+      <Item value="user" priority="0" />
+      <Item value="var" priority="3" />
+      <Item value="Neo4jClient" priority="1" />
+      <Item value="Cypher" priority="0" />
+      <Item value="CypherQuery`0" priority="0" />
+      <Item value="Set" priority="0" />
+      <Item value="nodes" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="Node" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="Message`0" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="node" priority="0" />
+      <Item value="Dictionary&lt;string,object&gt;" priority="4" />
+      <Item value="List" priority="0" />
+      <Item value="u" priority="0" />
+      <Item value="private" priority="3" />
+      <Item value="GraphClient`0" priority="0" />
+      <Item value="string" priority="4" />
+      <Item value="void" priority="2" />
+      <Item value="actorNameTextBox" priority="0" />
+      <Item value="actorName" priority="1" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="queryDict" priority="2" />
+      <Item value="String`0" priority="3" />
+      <Item value="this" priority="5" />
+      <Item value="DateTime`0" priority="6" />
+      <Item value="long" priority="0" />
+      <Item value="Int64`0" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="a" priority="9" />
+      <Item value="if" priority="2" />
+      <Item value="DateTime" priority="1" />
+      <Item value="movieNameTextBox" priority="0" />
+      <Item value="m" priority="0" />
+      <Item value="directorActorsTextBox" priority="0" />
+      <Item value="AddActor`0" priority="0" />
+      <Item value="AddActor" priority="0" />
+      <Item value="addActorForm" priority="4" />
+      <Item value="OK" priority="1" />
+      <Item value="Actor`0" priority="3" />
+      <Item value="Actor" priority="1" />
+      <Item value="Neo4J_Repository" priority="0" />
+      <Item value="DomainModel" priority="0" />
+      <Item value="dateTimePicker1" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="unixtime" priority="0" />
+      <Item value="birthplaceTextBox" priority="0" />
+      <Item value="List&lt;Movie&gt;" priority="0" />
+      <Item value="nameTextBox" priority="0" />
+      <Item value="actor" priority="9" />
+      <Item value="maxId" priority="2" />
+      <Item value="getMaxId`0" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="Int32`0" priority="0" />
+      <Item value="exception" priority="0" />
+      <Item value="NodeReference" priority="0" />
+      <Item value="newActor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4jClient.GraphClient">
+      <Item value="RootNode" priority="3" />
+      <Item value="Get`1" priority="0" />
+      <Item value="Cypher" priority="1" />
+      <Item value="Create`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4jClient.Node`1">
+      <Item value="Data" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4jClient.Cypher.ICypherFluentQueryPreStart">
+      <Item value="Query" priority="0" />
+      <Item value="Start`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4jClient.RootNode">
+      <Item value="StartCypher`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4jClient.Cypher.ICypherFluentQueryStarted">
+      <Item value="Return`1" priority="0" />
+      <Item value="Match`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4jClient.Cypher.ICypherFluentQueryReturned`1">
+      <Item value="Results" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4J_Repository.DomainModel.User">
+      <Item value="name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4jClient.IRawGraphClient">
+      <Item value="ExecuteGetCypherResults`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4J_Repository.DomainModel.Actor">
+      <Item value="birthday" priority="6" />
+      <Item value="getBirthday`0" priority="0" />
+      <Item value="name" priority="3" />
+      <Item value="birthplace" priority="2" />
+      <Item value="filmography" priority="0" />
+      <Item value="biography" priority="2" />
+      <Item value="id" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int64">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="0" />
+      <Item value="AddMilliseconds`0" priority="0" />
+      <Item value="ToUniversalTime`0" priority="0" />
+      <Item value="Subtract`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4J_Repository.DomainModel.Movie">
+      <Item value="title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Neo4J_Repository.AddActor">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="createActor`0" priority="0" />
+      <Item value="client" priority="0" />
+      <Item value="Close`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DateTimePicker">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalMilliseconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Neo4jClient.Cypher.CypherResultMode">
+      <Item value="Set" priority="0" />
+      <Item value="Projection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
